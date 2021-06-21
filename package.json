@@ -1,0 +1,23 @@
+{
+  "name": "jest-practice",
+  "version": "1.0.0",
+  "description": "## Practicing how to test JavaScript using Jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dillonlui/jest-practice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dillonlui/jest-practice/issues"
+  },
+  "homepage": "https://github.com/dillonlui/jest-practice#readme",
+  "devDependencies": {
+    "@babel/preset-env": "^7.14.5",
+    "jest": "^27.0.4"
+  }
+}
